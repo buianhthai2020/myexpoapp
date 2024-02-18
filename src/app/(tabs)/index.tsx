@@ -3,7 +3,7 @@ import {View, Text, StyleSheet} from 'react-native'
 export default function TabOneScreen() {
   return (
     <View style={styles.container}>
-      <Text>Hello</Text>
+      <Text>dioxusHello</Text>
     </View>
       
     
